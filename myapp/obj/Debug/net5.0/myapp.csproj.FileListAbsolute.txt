@@ -1,0 +1,16 @@
+/home/shehata/Desktop/C#TestProject/myapp/bin/Debug/net5.0/myapp
+/home/shehata/Desktop/C#TestProject/myapp/bin/Debug/net5.0/myapp.deps.json
+/home/shehata/Desktop/C#TestProject/myapp/bin/Debug/net5.0/myapp.runtimeconfig.json
+/home/shehata/Desktop/C#TestProject/myapp/bin/Debug/net5.0/myapp.runtimeconfig.dev.json
+/home/shehata/Desktop/C#TestProject/myapp/bin/Debug/net5.0/myapp.dll
+/home/shehata/Desktop/C#TestProject/myapp/bin/Debug/net5.0/ref/myapp.dll
+/home/shehata/Desktop/C#TestProject/myapp/bin/Debug/net5.0/myapp.pdb
+/home/shehata/Desktop/C#TestProject/myapp/obj/Debug/net5.0/myapp.csprojAssemblyReference.cache
+/home/shehata/Desktop/C#TestProject/myapp/obj/Debug/net5.0/myapp.GeneratedMSBuildEditorConfig.editorconfig
+/home/shehata/Desktop/C#TestProject/myapp/obj/Debug/net5.0/myapp.AssemblyInfoInputs.cache
+/home/shehata/Desktop/C#TestProject/myapp/obj/Debug/net5.0/myapp.AssemblyInfo.cs
+/home/shehata/Desktop/C#TestProject/myapp/obj/Debug/net5.0/myapp.csproj.CoreCompileInputs.cache
+/home/shehata/Desktop/C#TestProject/myapp/obj/Debug/net5.0/myapp.dll
+/home/shehata/Desktop/C#TestProject/myapp/obj/Debug/net5.0/ref/myapp.dll
+/home/shehata/Desktop/C#TestProject/myapp/obj/Debug/net5.0/myapp.pdb
+/home/shehata/Desktop/C#TestProject/myapp/obj/Debug/net5.0/myapp.genruntimeconfig.cache
